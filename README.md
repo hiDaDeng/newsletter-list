@@ -21,7 +21,7 @@
 
 ## 编程技术
 - [大邓和他的Python](https://hidadeng.github.io/) 自荐，不定期更新Python及数据分析相关内容
-- 
+
 ---
 
 ## 互联网和科技

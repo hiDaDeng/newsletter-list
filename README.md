@@ -3,7 +3,7 @@
 
 本文档不定期更新，碰到比较好的 Newsletter 就会加进来。
 
-同时欢迎自荐、推荐你觉得不错的 Newsletter，请点击这里[提交 issue](https://github.com/chasays/newsletter-list/issues)！
+同时欢迎自荐、推荐你觉得不错的 Newsletter，请点击这里[提交 issue](https://github.com/hiDaDeng/newsletter-list/issues)！
 
 写作 Newsletter 工具或者平台，排名不分先后。
 - [Substack](https://substack.com/) Start a paid newsletter，国外比较成功的一个 Newsletter 平台
@@ -15,6 +15,13 @@
 - [语雀](https://www.yuque.com/) 新一代云端知识库，也不支持邮件订阅
 - [Convertkit](https://convertkit.com/) Connect with your fans, foster your community, and earn a living online with the only marketing platform built for creators, by creators.
 
+
+
+---
+
+## 编程技术
+- [大邓和他的Python](https://hidadeng.github.io/) 自荐，不定期更新Python及数据分析相关内容
+- 
 ---
 
 ## 互联网和科技
